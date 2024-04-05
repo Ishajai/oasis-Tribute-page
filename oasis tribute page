@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tribute to Ada Lovelace</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Tribute to Ada Lovelace</h1>
+    </header>
+    <main>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace">
+        <figcaption>Ada Lovelace</figcaption>
+      </figure>
+      <article>
+        <p>Augusta Ada King, Countess of Lovelace (10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.</p>
+        <p>Her notes on the engine include what is now considered to be the first algorithm intended to be processed by a machine. Because of this, she is often regarded as the first computer programmer.</p>
+        <p>Ada Lovelace was the only legitimate child of the poet Lord Byron and his wife Anne Isabella Milbanke ("Annabella"), Lady Wentworth.</p>
+      </article>
+    </main>
+    <footer>
+      <p>Source: <a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target="_blank">Wikipedia</a></p>
+    </footer>
+  </div>
+</body>
+</html>
